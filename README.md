@@ -123,15 +123,15 @@ Future Scope → AI Chatbot • Cloud Deployment
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vanshgupta-01&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=vanshgupta-01&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=vanshgupta-01&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -163,7 +163,7 @@ Future Scope → AI Chatbot • Cloud Deployment
 
 # 👀 Visitors
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=vanshgupta-01&style=for-the-badge&color=blueviolet)
 
 ---
 
