@@ -1,183 +1,198 @@
-````md
-# 👋 Hey, I'm Vansh Gupta
+```text
 
-<div align="center">
+                                   ██╗   ██╗ █████╗ ███╗   ██╗███████╗██╗  ██╗
+                                   ██║   ██║██╔══██╗████╗  ██║██╔════╝██║  ██║
+                                   ██║   ██║███████║██╔██╗ ██║███████╗███████║
+                                   ╚██╗ ██╔╝██╔══██║██║╚██╗██║╚════██║██╔══██║
+                                    ╚████╔╝ ██║  ██║██║ ╚████║███████║██║  ██║
+                                     ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝
 
-### 💻 Software Engineering Student • Java Developer • DSA Enthusiast • Full Stack Developer
+                             ██████╗ ██╗   ██╗██████╗ ████████╗ █████╗
+                            ██╔════╝ ██║   ██║██╔══██╗╚══██╔══╝██╔══██╗
+                            ██║  ███╗██║   ██║██████╔╝   ██║   ███████║
+                            ██║   ██║██║   ██║██╔═══╝    ██║   ██╔══██║
+                            ╚██████╔╝╚██████╔╝██║        ██║   ██║  ██║
+                             ╚═════╝  ╚═════╝ ╚═╝        ╚═╝   ╚═╝  ╚═╝
 
-**Building real-world applications, solving DSA problems, and exploring AI one project at a time.**
+```
 
-<p>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=1000&height=80&lines=Software+Engineering+Student;Java+Developer+%7C+DSA+Enthusiast;Full+Stack+Developer;Building+MediDoc+%F0%9F%8F%A5;Exploring+AI+%26+Cloud+Computing"/>
+</p>
+
+---
+
+<p align="center">
+
+<a href="(https://www.linkedin.com/in/vansh-gupta-818955364/)">
+<img src="https://img.shields.io/badge/LinkedIn-00BFFF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-0A0F1F?style=for-the-badge&logo=vercel&logoColor=00D9FF"/>
+</a>
+
+<a href="guptavansh1010@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-FF4D4D?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 <a href="https://github.com/vanshgupta-01">
-<img src="https://img.shields.io/github/followers/vanshgupta-01?style=for-the-badge&logo=github&label=Followers"/>
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=00D9FF"/>
 </a>
 
-<a href="https://www.linkedin.com/in/vansh-gupta-818955364/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:guptavansh1010@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://leetcode.com/u/dSXkjBhtVM/">
+<img src="https://img.shields.io/badge/LeetCode-FFB000?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 </p>
 
-</div>
-
 ---
 
-# 👨‍💻 About Me
+# $ whoami
 
-```console
-vansh@github:~$ whoami
+```bash
+vansh@github:~$
 
-Name        : Vansh Gupta
-Education   : B.Tech Computer Science (AI)
-Location    : India
-
-Role        : Software Engineering Student
-
-Passionate about:
-• Java Development
-• Data Structures & Algorithms
-• Full Stack Development
-• Artificial Intelligence
-
-Current Goal:
-Build software that solves real-world problems.
+├── B.Tech CSE (AI) Student
+├── Software Engineering Student
+├── Java Developer
+├── DSA Enthusiast
+├── Full Stack Developer
+├── AI & Cloud Computing Learner
+└── Building Real-World Projects
 ```
 
 ---
 
-# 🚀 Currently Working On
+# 🚀 Tech Stack
 
-### 🏥 MediDoc
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,cpp,python,js,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,postman,aws"/>
+</p>
 
-A full-stack healthcare platform designed to make healthcare more accessible through a clean and modern digital experience.
+---
 
-### 🌐 Live Demo
+# 📚 Current Focus
 
-🔗 https://medidoc-portal-production.up.railway.app
+- 💻 Java Development
+- 📖 Data Structures & Algorithms
+- 🌐 Full Stack Web Development
+- ☁️ Cloud Computing (AWS)
+- 🤖 Artificial Intelligence
+- 🚀 Software Engineering
+- 🎯 Placement Preparation
+
+---
+
+# ⭐ Featured Project
+
+## 🏥 MediDoc — AI Powered Healthcare Portal
+
+> A modern healthcare platform designed to simplify medical services.
 
 ### Features
 
-- 👨‍⚕️ Doctor Discovery
+- 👨‍⚕️ Find Doctors
+- 🏥 Hospital Information
+- 💊 Medicine Search
+- 🩺 Disease Information
 - 📅 Appointment Booking
-- 🔐 Authentication
-- 💊 Medicine Information
-- 🏥 Hospital Directory
+- 🔐 Secure Authentication
+- 🤖 AI-powered Healthcare Assistance
 - 📱 Responsive Design
 
----
-
-# ⚙ Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,cpp,c,js,html,css"/>
-</p>
-
-### Backend & Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
-</p>
-
----
-
-# 🎯 2026 Roadmap
+### Tech Used
 
 ```text
-☑ Improve Java Fundamentals
+Frontend   → HTML • CSS • JavaScript • React
 
-☑ Solve DSA Daily
+Backend    → Node.js • Express.js
 
-☑ Master Backend Development
+Database   → MongoDB
 
-☑ Learn System Design
+Authentication → JWT
 
-☑ Build Scalable Full Stack Projects
+Deployment → Vercel / Render
 
-☑ Contribute to Open Source
-
-☑ Crack a Software Engineering Internship
+Future Scope → AI Chatbot • Cloud Deployment
 ```
 
 ---
 
-# 📂 Featured Repositories
+# 📊 GitHub Analytics
 
-| Project | Description |
-|---------|-------------|
-| 🏥 MediDoc | Full Stack Healthcare Portal |
-| ☕ Java DSA | Data Structures & Algorithms |
-| 🌐 Web Projects | HTML • CSS • JavaScript |
-| 🤖 AI Projects | Learning & Experiments |
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+
+</p>
 
 ---
 
-# 💡 Tech Philosophy
+# > STACK — Loaded Modules
+
+| 🧠 Layer | ⚡ Modules |
+|----------|-----------|
+| 💻 Languages | Java • C • C++ • Python • JavaScript |
+| 🎨 Frontend | HTML • CSS • React |
+| ⚙️ Backend | Node.js • Express.js |
+| 🗄️ Database | MongoDB • MySQL |
+| ☁️ Cloud | AWS (Learning) |
+| 🛠 Tools | Git • GitHub • VS Code • Postman |
+| 🤖 AI | Prompt Engineering • AI Integration |
+| 📚 Core CS | DSA • OOP • DBMS • OS |
+
+---
+
+# 🏆 Achievements
+
+- 🚀 Developed **MediDoc**, a Full Stack Healthcare Portal
+- 💻 Solved DSA Problems using Java
+- 🌱 Continuously learning AI & Cloud Computing
+- 📚 Building real-world software projects
+
+---
+
+# 👀 Visitors
+
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet)
+
+---
+
+# 💭 Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ```java
 while(alive){
+
     Learn();
+
+    Code();
+
     Build();
+
+    Debug();
+
     Improve();
+
     Repeat();
+
 }
 ```
 
 ---
 
-# 📈 GitHub
-
-- 💻 Public Repositories
-- ⭐ Project Showcase
-- 🔥 Daily Contributions
-- 🚀 Continuous Learning
-
-> *Check out my pinned repositories for my latest work.*
-
----
-
-# 🌐 Connect With Me
-
 <p align="center">
 
-<a href="https://github.com/vanshgupta-01">
-<img src="https://skillicons.dev/icons?i=github" width="50"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/vansh-gupta-818955364/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="mailto:guptavansh1010@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="50"/>
-</a>
+### ⚡ "Code. Learn. Build. Repeat."
 
 </p>
-
----
-
-<div align="center">
-
-### ⚡ "Code with curiosity. Build with purpose."
-
-**Thanks for visiting my profile!**
-
-⭐ If you like my work, consider following me and checking out my repositories.
-
-</div>
-````
