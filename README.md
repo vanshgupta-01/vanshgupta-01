@@ -1,5 +1,4 @@
 ```text
-
                                    ██╗   ██╗ █████╗ ███╗   ██╗███████╗██╗  ██╗
                                    ██║   ██║██╔══██╗████╗  ██║██╔════╝██║  ██║
                                    ██║   ██║███████║██╔██╗ ██║███████╗███████║
@@ -13,7 +12,6 @@
                             ██║   ██║██║   ██║██╔═══╝    ██║   ██╔══██║
                             ╚██████╔╝╚██████╔╝██║        ██║   ██║  ██║
                              ╚═════╝  ╚═════╝ ╚═╝        ╚═╝   ╚═╝  ╚═╝
-
 ```
 
 <p align="center">
@@ -24,15 +22,15 @@
 
 <p align="center">
 
-<a href="(https://www.linkedin.com/in/vansh-gupta-818955364/)">
+<a href="https://www.linkedin.com/in/vansh-gupta-818955364/">
 <img src="https://img.shields.io/badge/LinkedIn-00BFFF?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO">
+<a href="YOUR_PORTFOLIO_LINK">
 <img src="https://img.shields.io/badge/Portfolio-0A0F1F?style=for-the-badge&logo=vercel&logoColor=00D9FF"/>
 </a>
 
-<a href="guptavansh1010@gmail.com">
+<a href="mailto:guptavansh1010@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-FF4D4D?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -74,13 +72,13 @@ vansh@github:~$
 
 # 📚 Current Focus
 
-- 💻 Java Development
-- 📖 Data Structures & Algorithms
-- 🌐 Full Stack Web Development
-- ☁️ Cloud Computing (AWS)
-- 🤖 Artificial Intelligence
-- 🚀 Software Engineering
-- 🎯 Placement Preparation
+* 💻 Java Development
+* 📖 Data Structures & Algorithms
+* 🌐 Full Stack Web Development
+* ☁️ Cloud Computing (AWS)
+* 🤖 Artificial Intelligence
+* 🚀 Software Engineering
+* 🎯 Placement Preparation
 
 ---
 
@@ -92,29 +90,29 @@ vansh@github:~$
 
 ### Features
 
-- 👨‍⚕️ Find Doctors
-- 🏥 Hospital Information
-- 💊 Medicine Search
-- 🩺 Disease Information
-- 📅 Appointment Booking
-- 🔐 Secure Authentication
-- 🤖 AI-powered Healthcare Assistance
-- 📱 Responsive Design
+* 👨‍⚕️ Find Doctors
+* 🏥 Hospital Information
+* 💊 Medicine Search
+* 🩺 Disease Information
+* 📅 Appointment Booking
+* 🔐 Secure Authentication
+* 🤖 AI-powered Healthcare Assistance
+* 📱 Responsive Design
 
 ### Tech Used
 
 ```text
-Frontend   → HTML • CSS • JavaScript • React
+Frontend       → HTML • CSS • JavaScript • React
 
-Backend    → Node.js • Express.js
+Backend        → Node.js • Express.js
 
-Database   → MongoDB
+Database       → MongoDB
 
 Authentication → JWT
 
-Deployment → Vercel / Render
+Deployment     → Vercel / Render
 
-Future Scope → AI Chatbot • Cloud Deployment
+Future Scope   → AI Chatbot • Cloud Deployment
 ```
 
 ---
@@ -139,40 +137,44 @@ Future Scope → AI Chatbot • Cloud Deployment
 
 # > STACK — Loaded Modules
 
-| 🧠 Layer | ⚡ Modules |
-|----------|-----------|
+| 🧠 Layer     | ⚡ Modules                            |
+| ------------ | ------------------------------------ |
 | 💻 Languages | Java • C • C++ • Python • JavaScript |
-| 🎨 Frontend | HTML • CSS • React |
-| ⚙️ Backend | Node.js • Express.js |
-| 🗄️ Database | MongoDB • MySQL |
-| ☁️ Cloud | AWS (Learning) |
-| 🛠 Tools | Git • GitHub • VS Code • Postman |
-| 🤖 AI | Prompt Engineering • AI Integration |
-| 📚 Core CS | DSA • OOP • DBMS • OS |
+| 🎨 Frontend  | HTML • CSS • React                   |
+| ⚙️ Backend   | Node.js • Express.js                 |
+| 🗄️ Database | MongoDB • MySQL                      |
+| ☁️ Cloud     | AWS (Learning)                       |
+| 🛠 Tools     | Git • GitHub • VS Code • Postman     |
+| 🤖 AI        | Prompt Engineering • AI Integration  |
+| 📚 Core CS   | DSA • OOP • DBMS • OS                |
 
 ---
 
 # 🏆 Achievements
 
-- 🚀 Developed **MediDoc**, a Full Stack Healthcare Portal
-- 💻 Solved DSA Problems using Java
-- 🌱 Continuously learning AI & Cloud Computing
-- 📚 Building real-world software projects
+* 🚀 Developed **MediDoc**, a Full Stack Healthcare Portal
+* 💻 Solved DSA Problems using Java
+* 🌱 Continuously learning AI & Cloud Computing
+* 📚 Building real-world software projects
 
 ---
 
 # 👀 Visitors
 
-![](https://komarev.com/ghpvc/?username=vanshgupta-01&style=for-the-badge&color=blueviolet)
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=vanshgupta-01&style=for-the-badge&color=blueviolet"/>
+</p>
 
 ---
 
 # 💭 Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
 
 ```java
-while(alive){
+while (alive) {
 
     Learn();
 
@@ -185,7 +187,6 @@ while(alive){
     Improve();
 
     Repeat();
-
 }
 ```
 
