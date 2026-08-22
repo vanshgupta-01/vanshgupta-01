@@ -67,7 +67,7 @@ vansh@github:~$
 ### 💻 Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,c,cpp,python,js"/>
+<img src="https://skillicons.dev/icons?i=java,c,python,js"/>
 </p>
 
 ### 🌐 Web Development
