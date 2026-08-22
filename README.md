@@ -204,17 +204,7 @@ An intelligent railway crowd-management system designed to predict crowd levels 
 # 📊 GitHub Analytics
 
 <p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=vanshgupta-01&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshgupta-01&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
 <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=vanshgupta-01&theme=tokyo-night&hide_border=true"/>
-
 </p>
 
 ---
