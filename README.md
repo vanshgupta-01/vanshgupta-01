@@ -123,7 +123,7 @@ A modern healthcare platform designed to simplify access to medical services thr
 
 `HTML` `CSS` `JavaScript`
 
-<a href="YOUR_MEDIDOC_GITHUB_LINK">
+<a href="https://github.com/vanshgupta-01/medidoc-portal">
 <img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
@@ -151,7 +151,7 @@ A civic-tech platform that enables citizens to report local issues while AI assi
 
 `HTML` `CSS` `JavaScript` `Firebase` `Node.js` `Express.js` `Gemini API`
 
-<a href="YOUR_GENQ_GITHUB_LINK">
+<a href="https://github.com/vanshgupta-01/GenQ">
 <img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
