@@ -15,7 +15,7 @@
 ```
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=1000&height=80&lines=Software+Engineering+Student;Java+Developer+%7C+DSA+Enthusiast;Full+Stack+Developer;Building+MediDoc+%F0%9F%8F%A5;Exploring+AI+%26+Cloud+Computing"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=1000&height=80&lines=Software+Engineering+Student;Java+Developer+%7C+DSA+Enthusiast;Web+Developer;Building+Real-World+Solutions+%F0%9F%9A%80;Exploring+AI+%26+Software+Engineering"/>
 </p>
 
 ---
@@ -55,65 +55,149 @@ vansh@github:~$
 ├── Software Engineering Student
 ├── Java Developer
 ├── DSA Enthusiast
-├── Full Stack Developer
-├── AI & Cloud Computing Learner
-└── Building Real-World Projects
+├── Web Developer
+├── AI & Computer Vision Explorer
+└── Building Real-World Solutions
 ```
 
 ---
 
 # 🚀 Tech Stack
 
+### 💻 Languages
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,cpp,python,js,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,postman,aws"/>
+<img src="https://skillicons.dev/icons?i=java,c,cpp,python,js"/>
+</p>
+
+### 🌐 Web Development
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,nodejs,express"/>
+</p>
+
+### 🔥 Backend & Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=firebase,git,github,vscode"/>
 </p>
 
 ---
 
 # 📚 Current Focus
 
-* 💻 Java Development
-* 📖 Data Structures & Algorithms
-* 🌐 Full Stack Web Development
-* ☁️ Cloud Computing (AWS)
-* 🤖 Artificial Intelligence
+* ☕ Java Development
+* 🧠 Data Structures & Algorithms
+* 🌐 Web Development
+* ⚙️ Backend Development
+* 🤖 AI Integration
+* 👁️ Computer Vision
 * 🚀 Software Engineering
 * 🎯 Placement Preparation
 
 ---
 
-# ⭐ Featured Project
+# 🚀 Featured Projects
 
-## 🏥 MediDoc — AI Powered Healthcare Portal
+<table>
+<tr>
 
-> A modern healthcare platform designed to simplify medical services.
+<td width="50%" valign="top">
 
-### Features
+## 🏥 MediDoc
 
-* 👨‍⚕️ Find Doctors
-* 🏥 Hospital Information
+### Healthcare Portal
+
+A modern healthcare platform designed to simplify access to medical services through one unified digital portal.
+
+**✨ Key Features**
+
+* 👨‍⚕️ Doctor Discovery
+* 📅 Appointment Booking
 * 💊 Medicine Search
 * 🩺 Disease Information
-* 📅 Appointment Booking
-* 🔐 Secure Authentication
-* 🤖 AI-powered Healthcare Assistance
-* 📱 Responsive Design
+* 🔐 Authentication
+* 📱 Responsive Interface
 
-### Tech Used
+**🛠 Tech Stack**
 
-```text
-Frontend       → HTML • CSS • JavaScript • React
+`HTML` `CSS` `JavaScript`
 
-Backend        → Node.js • Express.js
+<a href="YOUR_MEDIDOC_GITHUB_LINK">
+<img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
 
-Database       → MongoDB
+</td>
 
-Authentication → JWT
+<td width="50%" valign="top">
 
-Deployment     → Vercel / Render
+## 🏙️ GenQ
 
-Future Scope   → AI Chatbot • Cloud Deployment
-```
+### AI-Powered Civic Issue Platform
+
+A civic-tech platform that enables citizens to report local issues while AI assists with verification, duplicate detection and authority workflows.
+
+**✨ Key Features**
+
+* 📸 Smart Issue Reporting
+* 🤖 AI-Based Verification
+* 📍 Location-Aware Duplicate Detection
+* 🏛️ Authority Workflow
+* 🔔 Real-Time Notifications
+* 🏆 Gamification & Rewards
+* 📊 Issue Status Tracking
+
+**🛠 Tech Stack**
+
+`HTML` `CSS` `JavaScript` `Firebase` `Node.js` `Express.js` `Gemini API`
+
+<a href="YOUR_GENQ_GITHUB_LINK">
+<img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+
+<td width="100%" valign="top">
+
+## 🚆 TRAINWISE
+
+### AI-Driven Railway Crowd Intelligence System
+
+An intelligent railway crowd-management system designed to predict crowd levels in general coaches and recommend less-crowded train alternatives.
+
+**✨ Key Features**
+
+* 👥 General Coach Crowd Prediction
+* 🚉 Station-by-Station Crowd Intelligence
+* 🔄 Less-Crowded Train Recommendations
+* ⚠️ Overcrowding Alerts for Authorities
+* 🎯 Passenger Preference-Based Recommendations
+* 📊 Real-Time Crowd Visualization
+* 🧠 Intelligent Crowd Distribution
+* 📹 Computer Vision-Based Crowd Estimation
+
+**🛠 Tech Stack**
+
+`JavaScript` `Node.js` `Express.js` `Python` `OpenCV` `YOLO` `Firebase` `Machine Learning`
+
+<a href="YOUR_TRAINWISE_GITHUB_LINK">
+<img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+> 💡 **Building technology that solves real-world problems — from healthcare and civic infrastructure to public transportation.**
 
 ---
 
@@ -121,15 +205,15 @@ Future Scope   → AI Chatbot • Cloud Deployment
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vanshgupta-01&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=vanshgupta-01&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=vanshgupta-01&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshgupta-01&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=vanshgupta-01&theme=tokyo-night&hide_border=true"/>
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=vanshgupta-01&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -137,25 +221,33 @@ Future Scope   → AI Chatbot • Cloud Deployment
 
 # > STACK — Loaded Modules
 
-| 🧠 Layer     | ⚡ Modules                            |
-| ------------ | ------------------------------------ |
-| 💻 Languages | Java • C • C++ • Python • JavaScript |
-| 🎨 Frontend  | HTML • CSS • React                   |
-| ⚙️ Backend   | Node.js • Express.js                 |
-| 🗄️ Database | MongoDB • MySQL                      |
-| ☁️ Cloud     | AWS (Learning)                       |
-| 🛠 Tools     | Git • GitHub • VS Code • Postman     |
-| 🤖 AI        | Prompt Engineering • AI Integration  |
-| 📚 Core CS   | DSA • OOP • DBMS • OS                |
+| 🧠 Layer                       | ⚡ Technologies                       |
+| ------------------------------ | ------------------------------------ |
+| 💻 Languages                   | Java • C • C++ • Python • JavaScript |
+| 🌐 Web                         | HTML • CSS • JavaScript              |
+| ⚙️ Backend                     | Node.js • Express.js                 |
+| 🔥 Database / Backend Services | Firebase • Firestore                 |
+| 🤖 AI / Computer Vision        | Gemini API • OpenCV • AI Integration |
+| 🛠️ Tools                      | Git • GitHub • VS Code               |
+| 📚 Core CS                     | DSA • OOP                            |
 
 ---
 
 # 🏆 Achievements
 
-* 🚀 Developed **MediDoc**, a Full Stack Healthcare Portal
-* 💻 Solved DSA Problems using Java
-* 🌱 Continuously learning AI & Cloud Computing
-* 📚 Building real-world software projects
+### 🥇 OpenAI Codex Hackathon
+
+* 🏆 Finished in the **Top 30% among 2,989 participants**
+* 🤖 Participated in the **OpenAI Codex Hackathon by NamasteDev**
+* 💡 Recognized for project effort and creativity
+
+### 💻 Development
+
+* 🏥 Developed **MediDoc** — Healthcare Portal
+* 🏙️ Built **GenQ** — AI-Powered Civic Issue Platform
+* 🚆 Developed **TRAINWISE** — AI-Driven Railway Crowd Intelligence System
+* 🧠 Actively solving **Data Structures & Algorithms** problems using Java
+* 🤖 Building real-world solutions using **AI, Computer Vision & Web Development**
 
 ---
 
@@ -177,16 +269,12 @@ Future Scope   → AI Chatbot • Cloud Deployment
 while (alive) {
 
     Learn();
-
     Code();
-
     Build();
-
     Debug();
-
     Improve();
-
     Repeat();
+
 }
 ```
 
